@@ -1,2 +1,2 @@
 # snakeGame
-This is a basic snake game built using python, its basically a python running here and there
+This is a Snake Game built using python,so its basically a Python running here and there.
